@@ -1,0 +1,2 @@
+PATH=$PATH:~/dev/rpi_linux/tools/arm-bcm2711/gcc-linaro-arm-linux-gnueabihf-raspbian/bin
+KERNEL=kernel7l
